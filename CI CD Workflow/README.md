@@ -1,2 +1,1 @@
--zzzzzzzzzzzzzzzzzzzzzzzzz
-
+This is a node js app which is deploy into the Declarative Pipeline this repo use as implementing CI/CD Stages like Continuous Download, Build, Deployment, Testing, Delivery As a Devops Engineer I design a Jenkins file I will put those neccessary stages that were required on the neccessary branch Each branch will have the copy of the jenkinsfile and each jenkinsfile the number of stages will be changed as per requirement of the project.
